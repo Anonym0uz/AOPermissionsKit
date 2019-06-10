@@ -1,0 +1,16 @@
+PODS:
+  - AOPermissionsKit (0.0.1)
+
+DEPENDENCIES:
+  - AOPermissionsKit (from `../AOPermissionsKit/`)
+
+EXTERNAL SOURCES:
+  AOPermissionsKit:
+    :path: "../AOPermissionsKit/"
+
+SPEC CHECKSUMS:
+  AOPermissionsKit: 1b5ccce53027f45381099661d462ffafcfd7cf46
+
+PODFILE CHECKSUM: 81be04394938a389ada12a0ccdbd45e266f27dfd
+
+COCOAPODS: 1.6.1
