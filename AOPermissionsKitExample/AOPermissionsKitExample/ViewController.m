@@ -9,7 +9,12 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+@property (nonatomic, strong) UIButton *checkCameraButton;
+@property (nonatomic, strong) UIButton *checkPLibraryButton;
+@property (nonatomic, strong) UIButton *checkCameraButton;
+@property (nonatomic, strong) UIButton *checkCameraButton;
+@property (nonatomic, strong) UIButton *checkCameraButton;
+@property (nonatomic, strong) UIButton *checkCameraButton;
 @end
 
 @implementation ViewController
